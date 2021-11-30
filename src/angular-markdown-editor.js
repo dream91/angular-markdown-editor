@@ -91,6 +91,7 @@ function addNewButtons() {
           title: "Strikethrough",
           icon: {
             fa: "fa fa-strikethrough",
+            fa-5: "fas fa-strikethrough",
             glyph: "glyphicon glyphicon-minus"
           },
           callback: function(e) {
@@ -129,6 +130,7 @@ function addNewButtons() {
           title: "Table",
           icon: {
             fa: "fa fa-table",
+            fa-5: "fas fa-table",
             glyph: "glyphicon glyphicon-th"
           },
           callback: function(e) {
